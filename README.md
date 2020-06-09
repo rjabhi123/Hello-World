@@ -1,5 +1,5 @@
 # My First Hello World Program in Python
-  This is my own project
+  This is my first project.
   
 # Installation
 
