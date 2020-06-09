@@ -2,7 +2,7 @@
   This is my own project
 ## Table of Contents
 
-  Instalation
+  
 
 # Installation
 
